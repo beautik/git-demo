@@ -1,3 +1,3 @@
 # git-demo
-beauti <br> this is a new repository
+beauti <br> <p>this is a new repository</p>
 
